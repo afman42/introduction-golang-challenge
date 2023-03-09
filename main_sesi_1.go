@@ -3,14 +3,16 @@ package main
 import "fmt"
 
 func main() {
-	var i uint8 = 21
-	var persen string = "%"
-	var j bool = true
-	var unicodeRussia string = "Я"
-	var nilaiBase10 uint = 21
-	nilaiBase8 := 031
-	var nilaiBase16 uint8 = 15
-	var floatDesimal float32 = 123.456
+	var (
+		i             uint8   = 21
+		persen        string  = "%"
+		j             bool    = true
+		unicodeRussia string  = "Я"
+		nilaiBase10   uint    = 21
+		nilaiBase8    uint    = 031
+		nilaiBase16   uint8   = 15
+		floatDesimal  float32 = 123.456
+	)
 
 	fmt.Printf("%d \n", i)
 	fmt.Printf("%s \n", persen)

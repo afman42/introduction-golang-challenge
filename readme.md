@@ -10,4 +10,9 @@
 
 - [x] sesi 1
 - [x] sesi 2
-- [] sesi 3
+- [ ] sesi 3
+- [ ] sesi 4
+
+## Project
+
+- [ ] sesi 5
