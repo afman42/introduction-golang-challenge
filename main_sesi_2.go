@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var (
 		iFor int    = 10
-		word string = "CA日APBO"
+		word string = "САШАРВО"
 	)
 
 	// for looping Nilai i
