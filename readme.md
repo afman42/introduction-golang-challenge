@@ -11,7 +11,7 @@
 - [x] sesi 1
 - [x] sesi 2
 - [x] sesi 3
-- [ ] sesi 4
+- [x] sesi 4
 
 ## Project
 
