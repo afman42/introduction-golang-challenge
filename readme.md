@@ -15,4 +15,4 @@
 
 ## Project
 
-- [ ] sesi 5
+- [x] sesi 5
